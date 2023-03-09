@@ -1,7 +1,7 @@
 
 ### Projeto 01
 
-This stage I learning
+in this project i learning
 
 - HTML basics 
 - CSS basics
